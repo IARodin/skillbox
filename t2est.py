@@ -18,4 +18,3 @@ for index in range(len(count_i)):
     summ_i = index + 1 + summ_i   
 
 print(f'Сумма индексов: {summ_i}')
-#проверка
